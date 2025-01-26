@@ -90,5 +90,6 @@
     "webflow",
     "yarnpkg",
     "yarnrc"
-  ]
+  ],
+  "github-actions.workflows.pinned.workflows": []
 }
